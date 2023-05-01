@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fitness-angular-c0722": {
+      "hosting": {
+        "fitness-app": [
+          "fitness-angular-c0722"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fitness-angular-c0722"
+  }
+}
